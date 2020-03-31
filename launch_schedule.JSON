@@ -1,16 +1,16 @@
 {
     "total":5945,
     "totalHits":500,
-    "hits":[
+    "launches":[
         {
             "webformatURL":"https://pixabay.com/get/53e5d4464f56b10ff3d89978c42834771239c3e45659744f742778dc96_640.jpg",
-            "likes":989,
-            "user":"Ty_Swartz"
+            "likes":101,
+            "launchName":"Next launch"
         },
         {
             "webformatURL":"https://pixabay.com/get/57e8d3454e55a914f1dc8460c22b377d1c38d8f85254794c732e73d79f4c_640.jpg",
-            "likes":175,
-            "user":"Pexels"
+            "likes":200,
+            "launchName":"Later launch"
         }
     ]
 }
