@@ -5,12 +5,12 @@
         {
             "launchName":"Mars Rover 2020",
             "launchImageURL":"https://pixabay.com/get/53e5d4464f56b10ff3d89978c42834771239c3e45659744f742778dc96_640.jpg",
-            "likes":101,
+            "likes":101
         },
         {
             "launchName":"Test name 2",
             "launchImageURL":"https://pixabay.com/get/53e5d4464f56b10ff3d89978c42834771239c3e45659744f742778dc96_640.jpg",
-            "likes":200,
+            "likes":200
         }
        
     ]
