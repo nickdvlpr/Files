@@ -7,7 +7,7 @@
             "launchDate":"April 9, 2020",
             "launchTime":"4:04 AM (Eastern time)",
             "launchDescription":"NASA astronaut Chris Cassidy and Russian space agency Roscosmos cosmonauts Anatoly Ivanishin and Ivan Vagner launch aboard a Soyuz spacecraft to the International Space Station. This will be the third spaceflight for Cassidy.",
-            "launchImageURL":"https://raw.githubusercontent.com/nickdvlpr/Files/master/expedition_63.jpg",
+            "launchImageURL":"https://pixabay.com/photos/kitty-cat-kitten-pet-animal-cute-551554/",
             "integer":101
         },
         {
@@ -15,7 +15,7 @@
             "launchDate":"May 2020",
             "launchTime":"TBD",
             "launchDescription":"SpaceX’s Crew Dragon Demo-2 mission is a flight test with crew, prior to certification of systems by NASA for operational missions to the International Space Station. NASA astronauts Bob Behnken and Doug Hurley will fly on Demo-2.",
-            "launchImageURL":"https://raw.githubusercontent.com/nickdvlpr/Files/master/commercial_crew.jpg",
+            "launchImageURL":"https://pixabay.com/photos/kitty-cat-kitten-pet-animal-cute-551554/",
             "integer":200
         },
         {
@@ -23,7 +23,7 @@
             "launchDate":"July 2020",
             "launchTime":"TBD",
             "launchDescription":"Our Perseverance rover will search for signs of habitable conditions on Mars in the ancient past and for signs of past microbial life itself. The rover will launch on a United Launch Alliance Atlas V rocket from Space Launch Complex 41 at Cape Canaveral Air Force Station.",
-            "launchImageURL":"https://raw.githubusercontent.com/nickdvlpr/Files/master/perseverance_rover.jpg",
+            "launchImageURL":"https://pixabay.com/photos/kitty-cat-kitten-pet-animal-cute-551554/",
             "integer":200
         }
     ]
