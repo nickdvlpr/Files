@@ -27,10 +27,10 @@
             "integer":200
         },
         {
-            "launchName":"Test layout",
+            "launchName":"Test layout for looking at this list with more items in it",
             "launchDate":"2020-3",
             "launchTime":"TBD",
-            "launchDescription":"Our Perseverance rover will search for signs of habitable conditions on Mars in the ancient past and for signs of past microbial life itself. The rover will launch on a United Launch Alliance Atlas V rocket from Space Launch Complex 41 at Cape Canaveral Air Force Station. Lorem ipsum dolor sig amet lorem ipsum dolor lorem ipsum dolor lorem ipsum dolor the quick brown fox jumped over the lazy rabbit dog cat fish animal long text paragraph here.",
+            "launchDescription":"Our Perseverance rover will search for signs of habitable conditions on Mars in the ancient past and for signs of past microbial life itself. The rover will launch on a United Launch Alliance Atlas V rocket from Space Launch Complex 41 at Cape Canaveral Air Force Station. Lorem ipsum dolor sig amet lorem ipsum dolor lorem ipsum dolor lorem ipsum dolor the quick brown fox jumped over the lazy rabbit dog cat fish animal long text paragraph here. This is to test what it is like if there were many more elements in this list, but in effect it is just one long item here to create the same effect. Really this is giberrish at this point, I am purposely not correcting poor grammar and just typing words to fill space. If you are seeing this, I am the developer of the app and I just want to say hi for the time being. Lorem ipsum dolor lorem ipsum dolor lorem ipsum dolor.",
             "launchImageURL":"https://raw.githubusercontent.com/nickdvlpr/Files/master/perseverance_rover.jpg",
             "integer":200
         }
