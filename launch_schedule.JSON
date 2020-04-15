@@ -3,15 +3,7 @@
     "totalLaunches":500,
     "launches":[
         {
-            "launchName":"Expedition 63 Launch",
-            "launchDate":"2020-4-9",
-            "launchTime":"4:04 AM (Eastern time)",
-            "launchDescription":"NASA astronaut Chris Cassidy and Russian space agency Roscosmos cosmonauts Anatoly Ivanishin and Ivan Vagner launch aboard a Soyuz spacecraft to the International Space Station. This will be the third spaceflight for Cassidy.",
-            "launchImageURL":"https://raw.githubusercontent.com/nickdvlpr/Files/master/perseverance_rover.jpg",
-            "integer":101
-        },
-        {
-            "launchName":"GPS III SV03 - Columbus",
+            "launchName":"SpaceX - GPS III SV03 - Columbus",
             "launchDate":"2020-4-29",
             "launchTime":"TBD",
             "launchDescription":"GPS-IIIA (Global Positioning System) is the first evolution stage of the third generation of the GPS satellites. It consists of the first ten (known as tranche) of GPS III satellites.",
