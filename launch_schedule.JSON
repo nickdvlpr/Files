@@ -3,18 +3,18 @@
     "totalLaunches":500,
     "launches":[
         {
-            "launchName":"SpaceX - GPS III SV03 - Columbus",
-            "launchDate":"2020-4-29",
+            "launchName":"GPS (3rd Generation)",
+            "launchDate":"2020-6",
             "launchTime":"TBD",
             "launchDescription":"GPS-IIIA (Global Positioning System) is the first evolution stage of the third generation of the GPS satellites. It consists of the first ten (known as tranche) of GPS III satellites.",
             "launchImageURL":"https://raw.githubusercontent.com/nickdvlpr/Files/master/perseverance_rover.jpg",
             "integer":101
         },
         {
-            "launchName":"Commercial Crew SpaceX Demo-2 Flight Test (Crewed)",
-            "launchDate":"2020-5",
-            "launchTime":"TBD",
-            "launchDescription":"SpaceX’s Crew Dragon Demo-2 mission is a flight test with crew, prior to certification of systems by NASA for operational missions to the International Space Station. NASA astronauts Bob Behnken and Doug Hurley will fly on Demo-2.",
+            "launchName":"Commercial Crew SpaceX Demo 2 Flight Test",
+            "launchDate":"2020-5-27",
+            "launchTime":"4:32 PM (EDT)",
+            "launchDescription":"A new era of human spaceflight is set to begin as American astronauts once again launch on an American rocket from American soil to the International Space Station as part of NASA's Commercial Crew Program. As the final flight test for SpaceX, this mission will validate the company’s crew transportation system, including the launch pad, rocket, spacecraft, and operational capabilities. This also will be the first time NASA astronauts will test the spacecraft systems in orbit.",
             "launchImageURL":"https://raw.githubusercontent.com/nickdvlpr/Files/master/perseverance_rover.jpg",
             "integer":200
         },
