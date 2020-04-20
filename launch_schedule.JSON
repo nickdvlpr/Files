@@ -3,15 +3,15 @@
     "totalLaunches":500,
     "launches":[
         {
-            "launchName":"GPS update will be launched by SpaceX",
-            "launchDate":"2020-6",
-            "launchTime":"TBD",
-            "launchDescription":"GPS-IIIA (Global Positioning System) is the first evolution stage of the third generation of the GPS satellites. It consists of the first ten (known as tranche) of GPS III satellites.",
+            "launchName":"Starlink 6 by SpaceX",
+            "launchDate":"2020-4-23",
+            "launchTime":"3:16 PM (EDT)",
+            "launchDescription":"The seventh batch of 60 satellites will be launched aboard a Falcon 9 rocket. This Falcon 9 has flown three times already.",
             "launchImageURL":"https://raw.githubusercontent.com/nickdvlpr/Files/master/perseverance_rover.jpg",
-            "integer":101
+            "integer":200
         },
         {
-            "launchName":"NASA and SpaceX launch the first astronauts from the US since 2011.",
+            "launchName":"NASA and SpaceX will launch the first astronauts from the US since 2011.",
             "launchDate":"2020-5-27",
             "launchTime":"4:32 PM (EDT)",
             "launchDescription":"A new era of human spaceflight is set to begin as American astronauts once again launch on an American rocket from American soil to the International Space Station as part of NASA's Commercial Crew Program. As the final flight test for SpaceX, this mission will validate the company’s crew transportation system, including the launch pad, rocket, spacecraft, and operational capabilities. This also will be the first time NASA astronauts will test the spacecraft systems in orbit.",
