@@ -4,8 +4,8 @@
     "launches":[
         {
             "launchName":"Starlink 6 by SpaceX",
-            "launchDate":"2020-4-23",
-            "launchTime":"3:16 PM (EDT)",
+            "launchDate":"2020-4-22",
+            "launchTime":"3:30 PM (EDT)",
             "launchDescription":"The seventh batch of 60 satellites will be launched aboard a Falcon 9 rocket. This Falcon 9 has flown three times already.",
             "launchImageURL":"https://raw.githubusercontent.com/nickdvlpr/Files/master/perseverance_rover.jpg",
             "integer":200
