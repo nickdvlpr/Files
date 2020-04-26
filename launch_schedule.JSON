@@ -3,10 +3,18 @@
     "totalLaunches":500,
     "launches":[
         {
-            "launchName":"Starlink 6 by SpaceX",
-            "launchDate":"2020-4-22",
-            "launchTime":"3:30 PM (EDT)",
-            "launchDescription":"The seventh batch of 60 satellites will be launched aboard a Falcon 9 rocket. This Falcon 9 has flown three times already.",
+            "launchName":"USSF-7 by ULA",
+            "launchDate":"2020-5-16",
+            "launchTime":"TBD",
+            "launchDescription":"This mission will launch the Boeing X-37B spaceplane into Earth orbit for the US Space Force.",
+            "launchImageURL":"https://raw.githubusercontent.com/nickdvlpr/Files/master/perseverance_rover.jpg",
+            "integer":200
+        },
+        {
+            "launchName":"JAXA HTV-9 Cargo Spacecraft",
+            "launchDate":"2020-5-20",
+            "launchTime":"1:30 PM (EDT)",
+            "launchDescription":"Launched from Japan, this mission will deliver supplies to the International Space Station.",
             "launchImageURL":"https://raw.githubusercontent.com/nickdvlpr/Files/master/perseverance_rover.jpg",
             "integer":200
         },
