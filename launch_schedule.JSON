@@ -11,30 +11,6 @@
             "integer":200
         },
         {
-            "launchName":"USSF-7 by ULA",
-            "launchDate":"2020-5-16",
-            "launchTime":"TBD",
-            "launchDescription":"This mission will launch the Boeing X-37B spaceplane into Earth orbit for the US Space Force.",
-            "launchImageURL":"https://raw.githubusercontent.com/nickdvlpr/Files/master/perseverance_rover.jpg",
-            "integer":200
-        },
-        {
-            "launchName":"USSF-7 by ULA",
-            "launchDate":"2020-5-16",
-            "launchTime":"TBD",
-            "launchDescription":"This mission will launch the Boeing X-37B spaceplane into Earth orbit for the US Space Force.",
-            "launchImageURL":"https://raw.githubusercontent.com/nickdvlpr/Files/master/perseverance_rover.jpg",
-            "integer":200
-        },
-        {
-            "launchName":"USSF-7 by ULA",
-            "launchDate":"2020-5-16",
-            "launchTime":"TBD",
-            "launchDescription":"This mission will launch the Boeing X-37B spaceplane into Earth orbit for the US Space Force.",
-            "launchImageURL":"https://raw.githubusercontent.com/nickdvlpr/Files/master/perseverance_rover.jpg",
-            "integer":200
-        },
-        {
             "launchName":"JAXA HTV-9 Cargo Spacecraft",
             "launchDate":"2020-5-20",
             "launchTime":"1:30 PM (EDT)",
