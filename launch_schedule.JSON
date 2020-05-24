@@ -3,14 +3,6 @@
     "totalLaunches":500,
     "launches":[
         {
-            "launchName":"JAXA HTV-9 Cargo Spacecraft",
-            "launchDate":"2020-5-20",
-            "launchTime":"1:30 PM (EDT)",
-            "launchDescription":"Launched from Japan, this mission will deliver supplies to the International Space Station.",
-            "launchImageURL":"https://raw.githubusercontent.com/nickdvlpr/Files/master/perseverance_rover.jpg",
-            "integer":200
-        },
-        {
             "launchName":"NASA and SpaceX will launch the first astronauts from the US since 2011.",
             "launchDate":"2020-5-27",
             "launchTime":"4:32 PM (EDT)",
