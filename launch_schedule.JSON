@@ -3,10 +3,27 @@
     "totalLaunches":500,
     "launches":[
         {
-            "launchName":"NASA and SpaceX will launch the first astronauts from the US since 2011.",
-            "launchDate":"2020-5-30",
-            "launchTime":"3:21 PM (EDT)",
-            "launchDescription":"Original launch date on May 27th was scrubbed due to weather. A new era of human spaceflight is set to begin as American astronauts once again launch on an American rocket from American soil to the International Space Station as part of NASA's Commercial Crew Program. As the final flight test for SpaceX, this mission will validate the company’s crew transportation system, including the launch pad, rocket, spacecraft, and operational capabilities. This also will be the first time NASA astronauts will test the spacecraft systems in orbit. You can watch on the SpaceX website or NASA website. Links can also be found on their respective homepages.",
+            "launchName":"SpaceX Falcon 9 launch of Starlink 8",
+            "launchDate":"2020-6-3",
+            "launchTime":"8:55 PM (EDT)",
+            "launchDescription":"The eighth Starlink launch for SpaceX. After this mission, there will be around 475 satellites in their constellation network, with a goal of 840 before their first beta internet test.",
+            "launchImageURL":"https://raw.githubusercontent.com/nickdvlpr/Files/master/perseverance_rover.jpg",
+            "integer":200
+        },
+        {
+            "launchName":"GPS III SV03 - Columbus",
+            "launchName":"SpaceX - GPS III SV03 - Columbus",
+            "launchDate":"2020-6",
+            "launchTime":"TBD",
+            "launchDescription":"GPS-IIIA (Global Positioning System) is the first evolution stage of the third generation of the GPS satellites. It consists of the first ten (known as tranche) of GPS III satellites.",
+            "launchImageURL":"https://raw.githubusercontent.com/nickdvlpr/Files/master/perseverance_rover.jpg",
+            "integer":101
+        },
+        {
+            "launchName":"SpaceX Falcon 9 launch of Starlink 9",
+            "launchDate":"2020-6",
+            "launchTime":"TBD",
+            "launchDescription":"The ninth Starlink launch for SpaceX.",
             "launchImageURL":"https://raw.githubusercontent.com/nickdvlpr/Files/master/perseverance_rover.jpg",
             "integer":200
         },
