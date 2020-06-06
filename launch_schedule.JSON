@@ -3,17 +3,25 @@
     "totalLaunches":500,
     "launches":[
         {
-            "launchName":"SpaceX Falcon 9 launch of Starlink 8",
-            "launchDate":"2020-6-3",
-            "launchTime":"8:55 PM (EDT)",
-            "launchDescription":"The eighth Starlink launch for SpaceX. After this mission, there will be around 475 satellites in their constellation network, with a goal of 840 before their first beta internet test.",
+            "launchName":"SpaceX Falcon 9 launch of Starlink 9",
+            "launchDate":"2020-6-12",
+            "launchTime":"TBD",
+            "launchDescription":"The ninth Starlink launch for SpaceX. After this mission, there will be around 540 satellites in their constellation network, with a goal of 840 before their first beta internet test.",
+            "launchImageURL":"https://raw.githubusercontent.com/nickdvlpr/Files/master/perseverance_rover.jpg",
+            "integer":200
+        },
+        {
+            "launchName":"SpaceX Falcon 9 launch of Starlink 10",
+            "launchDate":"2020-6-24",
+            "launchTime":"TBD",
+            "launchDescription":"The tenth Starlink launch for SpaceX. After this mission, there will be around 600 satellites in their constellation network, with a goal of 840 before their first beta internet test.",
             "launchImageURL":"https://raw.githubusercontent.com/nickdvlpr/Files/master/perseverance_rover.jpg",
             "integer":200
         },
         {
             "launchName":"GPS III SV03 - Columbus",
             "launchName":"SpaceX - GPS III SV03 - Columbus",
-            "launchDate":"2020-6",
+            "launchDate":"2020-6-30",
             "launchTime":"TBD",
             "launchDescription":"GPS-IIIA (Global Positioning System) is the first evolution stage of the third generation of the GPS satellites. It consists of the first ten (known as tranche) of GPS III satellites.",
             "launchImageURL":"https://raw.githubusercontent.com/nickdvlpr/Files/master/perseverance_rover.jpg",
