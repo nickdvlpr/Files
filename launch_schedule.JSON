@@ -34,6 +34,14 @@
             "launchDescription":"Our Perseverance rover will search for signs of habitable conditions on Mars in the ancient past and for signs of past microbial life itself. The rover will launch on a United Launch Alliance Atlas V rocket from Space Launch Complex 41 at Cape Canaveral Air Force Station.",
             "launchImageURL":"https://raw.githubusercontent.com/nickdvlpr/Files/master/perseverance_rover.jpg",
             "integer":200
+        },
+        {
+            "launchName":"Expedition 64 Launch",
+            "launchDate":"2020-7-20",
+            "launchTime":"9:15 AM (ET)",
+            "launchDescription":"NASA astronaut Kate Rubins and cosmonauts Sergey Ryzhikov and Sergey Kud Sverchkov of the Russian space agency Roscosmos launch aboard a Soyuz spacecraft to the International Space Station. This will be the second spaceflight for Rubins.",
+            "launchImageURL":"https://raw.githubusercontent.com/nickdvlpr/Files/master/perseverance_rover.jpg",
+            "integer":200
         }
     ]
 }
