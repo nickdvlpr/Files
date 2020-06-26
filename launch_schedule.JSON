@@ -4,8 +4,8 @@
     "launches":[
         {
             "launchName":"SpaceX Falcon 9 launch of Starlink 10",
-            "launchDate":"2020-6-22",
-            "launchTime":"5:20 PM (ET)",
+            "launchDate":"2020-6-26",
+            "launchTime":"3:18 PM (ET)",
             "launchDescription":"The tenth Starlink launch for SpaceX. After this mission, there will be around 600 satellites in their constellation network, with a goal of 840 before their first beta internet test.",
             "launchImageURL":"https://raw.githubusercontent.com/nickdvlpr/Files/master/perseverance_rover.jpg",
             "integer":200
@@ -14,23 +14,23 @@
             "launchName":"GPS III SV03 - Columbus",
             "launchName":"SpaceX - GPS III SV03 - Columbus",
             "launchDate":"2020-6-30",
-            "launchTime":"2:55 PM (ET)",
+            "launchTime":"2:56 PM (ET)",
             "launchDescription":"GPS-IIIA (Global Positioning System) is the first evolution stage of the third generation of the GPS satellites. It consists of the first ten (known as tranche) of GPS III satellites.",
             "launchImageURL":"https://raw.githubusercontent.com/nickdvlpr/Files/master/perseverance_rover.jpg",
             "integer":101
         },
         {
-            "launchName":"SpaceX Falcon 9 launch of Starlink 9",
-            "launchDate":"2020-6",
+            "launchName":"SpaceX Falcon 9 launch of Starlink 11",
+            "launchDate":"2020-7",
             "launchTime":"TBD",
-            "launchDescription":"The ninth Starlink launch for SpaceX.",
+            "launchDescription":"The eleventh Starlink launch for SpaceX.",
             "launchImageURL":"https://raw.githubusercontent.com/nickdvlpr/Files/master/perseverance_rover.jpg",
             "integer":200
         },
         {
             "launchName":"Mars Perseverance Rover",
-            "launchDate":"2020-7-20",
-            "launchTime":"9:15 AM (ET)",
+            "launchDate":"2020-7-22",
+            "launchTime":"8:35 AM (ET)",
             "launchDescription":"Our Perseverance rover will search for signs of habitable conditions on Mars in the ancient past and for signs of past microbial life itself. The rover will launch on a United Launch Alliance Atlas V rocket from Space Launch Complex 41 at Cape Canaveral Air Force Station.",
             "launchImageURL":"https://raw.githubusercontent.com/nickdvlpr/Files/master/perseverance_rover.jpg",
             "integer":200
