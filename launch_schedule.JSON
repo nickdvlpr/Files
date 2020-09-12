@@ -1,45 +1,52 @@
 {
-    "lastUpdatedByMe":"March 30, 2020",
+    "lastUpdatedByMe":"September 12, 2020",
     "totalLaunches":500,
     "launches":[
         {
-            "launchName":"GPS III SV03 - Columbus",
-            "launchName":"SpaceX - GPS III SV03 - Columbus",
-            "launchDate":"2020-6-30",
-            "launchTime":"2:56 PM (ET)",
-            "launchDescription":"GPS-IIIA (Global Positioning System) is the first evolution stage of the third generation of the GPS satellites. It consists of the first ten (known as tranche) of GPS III satellites.",
-            "launchImageURL":"https://raw.githubusercontent.com/nickdvlpr/Files/master/perseverance_rover.jpg",
-            "integer":101
-        },
-        {
-            "launchName":"SpaceX Falcon 9 launch of Starlink 10",
-            "launchDate":"2020-7",
-            "launchTime":"TBD",
-            "launchDescription":"The tenth Starlink launch for SpaceX. After this mission, there will be around 600 satellites in their constellation network, with a goal of 840 before their first beta internet test.",
+            "launchName":"SpaceX Falcon 9 launch of Starlink 13",
+            "launchDate":"2020-9-17",
+            "launchTime":"1:17 PM",
+            "launchDescription":"The thirteenth Starlink launch for SpaceX.",
             "launchImageURL":"https://raw.githubusercontent.com/nickdvlpr/Files/master/perseverance_rover.jpg",
             "integer":200
         },
         {
-            "launchName":"SpaceX Falcon 9 launch of Starlink 11",
-            "launchDate":"2020-7",
-            "launchTime":"TBD",
-            "launchDescription":"The eleventh Starlink launch for SpaceX.",
-            "launchImageURL":"https://raw.githubusercontent.com/nickdvlpr/Files/master/perseverance_rover.jpg",
-            "integer":200
-        },
-        {
-            "launchName":"Mars Perseverance Rover",
-            "launchDate":"2020-7-22",
-            "launchTime":"8:35 AM (ET)",
-            "launchDescription":"Our Perseverance rover will search for signs of habitable conditions on Mars in the ancient past and for signs of past microbial life itself. The rover will launch on a United Launch Alliance Atlas V rocket from Space Launch Complex 41 at Cape Canaveral Air Force Station.",
+            "launchName":"Northrop Grumman Resupply Mission to Space Station (CRS 14)",
+            "launchDate":"2020-9-19",
+            "launchTime":"10:26 PM (ET)",
+            "launchDescription":"This is the fourteenth contracted commercial resupply services mission for Northrop Grumman, launching its Cygnus spacecraft aboard an Antares rocket from Wallops Flight Facility in Virginia. It will deliver several tons of cargo and supplies to the International Space Station.",
             "launchImageURL":"https://raw.githubusercontent.com/nickdvlpr/Files/master/perseverance_rover.jpg",
             "integer":200
         },
         {
             "launchName":"Expedition 64 Launch",
-            "launchDate":"2020-7-20",
-            "launchTime":"9:15 AM (ET)",
+            "launchDate":"2020-10-14",
+            "launchTime":"TBD",
             "launchDescription":"NASA astronaut Kate Rubins and cosmonauts Sergey Ryzhikov and Sergey Kud Sverchkov of the Russian space agency Roscosmos launch aboard a Soyuz spacecraft to the International Space Station. This will be the second spaceflight for Rubins.",
+            "launchImageURL":"https://raw.githubusercontent.com/nickdvlpr/Files/master/perseverance_rover.jpg",
+            "integer":200
+        },
+        {
+            "launchName":"OSIRIS REx Collects a Sample from Asteroid Bennu",
+            "launchDate":"2020-10-20",
+            "launchTime":"TBD",
+            "launchDescription":"Our OSIRIS REx spacecraft will travel all the way to the surface of Bennu, an asteroid, during this sample collection attempt. The spacecraft will contact the surface for several seconds then collect a sample, which it will return to Earth in 2023.",
+            "launchImageURL":"https://raw.githubusercontent.com/nickdvlpr/Files/master/perseverance_rover.jpg",
+            "integer":200
+        },
+        {
+            "launchName":"SpaceX Crew 1 Mission to the International Space Station",
+            "launchDate":"2020-10-23",
+            "launchTime":"TBD",
+            "launchDescription":"Crew Dragon commander Michael Hopkins, pilot Victor Glover, and mission specialist Shannon Walker of NASA and Japan Aerospace Exploration Agency (JAXA) mission specialist Soichi Noguchi will launch on the Crew 1 mission from Launch Complex 39A at Kennedy Space Center in Florida.",
+            "launchImageURL":"https://raw.githubusercontent.com/nickdvlpr/Files/master/perseverance_rover.jpg",
+            "integer":200
+        },
+        {
+            "launchName":"James Webb Space Telescope",
+            "launchDate":"2021-10-31",
+            "launchTime":"TBD",
+            "launchDescription":"The James Webb Space Telescope will find the first galaxies that formed in the early universe and peer through dusty clouds to see stars forming planetary systems.",
             "launchImageURL":"https://raw.githubusercontent.com/nickdvlpr/Files/master/perseverance_rover.jpg",
             "integer":200
         }
